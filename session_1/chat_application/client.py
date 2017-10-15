@@ -22,6 +22,7 @@ while True:
     for sock in ready_to_read:
         if sock == client_socket:
             data = sock.recv(1024)
+            
             if not data:
                 sys.stdout.write('Disconnected')
                 exit()
