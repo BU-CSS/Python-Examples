@@ -30,4 +30,4 @@ is run if the user enters either `and` or `+` as the operation input.
 Different functions are called based on the operation the user inputs. The program is contained within a `while` loop so that multiple calculations can be performed consecutively.
 
 ## Chat Application
-
+*Awaiting final challenge plans.*
